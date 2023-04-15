@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestButton</string>
+    <string name="ButtonCalculate">Roll</string>
+    <string name="OutString">TextView</string>
+</resources>
